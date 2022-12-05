@@ -1,0 +1,26 @@
+[
+    {
+      "avatar": "http://loremflickr.com/640/480/food",
+      "name": "name 1",
+      "inStock": 20,
+      "fastDelivery": false,
+      "ratings": 63,
+      "id": "1"
+    },
+    {
+      "avatar": "http://loremflickr.com/640/480/animals",
+      "name": "name 2",
+      "inStock": 65,
+      "fastDelivery": false,
+      "ratings": 4,
+      "id": "2"
+    },
+    {
+      "avatar": "http://loremflickr.com/640/480/nature",
+      "name": "name 3",
+      "inStock": 15,
+      "fastDelivery": false,
+      "ratings": 94,
+      "id": "3"
+    }
+]
