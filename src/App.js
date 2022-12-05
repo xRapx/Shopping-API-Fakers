@@ -4,9 +4,7 @@ import Home from "./components/Home";
 import Cart from "./Product/Cart";
 import { useEffect } from "react";
 import productAPI from "./services/productAPI";
-import data from "./services/data.json"
 
-console.log(data)
 
 function App() {
 
